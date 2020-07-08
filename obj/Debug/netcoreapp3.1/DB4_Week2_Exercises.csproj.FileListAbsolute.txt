@@ -1,0 +1,13 @@
+C:\devbuild4\DB4_Week2_Exercises\bin\Debug\netcoreapp3.1\DB4_Week2_Exercises.exe
+C:\devbuild4\DB4_Week2_Exercises\bin\Debug\netcoreapp3.1\DB4_Week2_Exercises.deps.json
+C:\devbuild4\DB4_Week2_Exercises\bin\Debug\netcoreapp3.1\DB4_Week2_Exercises.runtimeconfig.json
+C:\devbuild4\DB4_Week2_Exercises\bin\Debug\netcoreapp3.1\DB4_Week2_Exercises.runtimeconfig.dev.json
+C:\devbuild4\DB4_Week2_Exercises\bin\Debug\netcoreapp3.1\DB4_Week2_Exercises.dll
+C:\devbuild4\DB4_Week2_Exercises\bin\Debug\netcoreapp3.1\DB4_Week2_Exercises.pdb
+C:\devbuild4\DB4_Week2_Exercises\obj\Debug\netcoreapp3.1\DB4_Week2_Exercises.csprojAssemblyReference.cache
+C:\devbuild4\DB4_Week2_Exercises\obj\Debug\netcoreapp3.1\DB4_Week2_Exercises.AssemblyInfoInputs.cache
+C:\devbuild4\DB4_Week2_Exercises\obj\Debug\netcoreapp3.1\DB4_Week2_Exercises.AssemblyInfo.cs
+C:\devbuild4\DB4_Week2_Exercises\obj\Debug\netcoreapp3.1\DB4_Week2_Exercises.csproj.CoreCompileInputs.cache
+C:\devbuild4\DB4_Week2_Exercises\obj\Debug\netcoreapp3.1\DB4_Week2_Exercises.dll
+C:\devbuild4\DB4_Week2_Exercises\obj\Debug\netcoreapp3.1\DB4_Week2_Exercises.pdb
+C:\devbuild4\DB4_Week2_Exercises\obj\Debug\netcoreapp3.1\DB4_Week2_Exercises.genruntimeconfig.cache
