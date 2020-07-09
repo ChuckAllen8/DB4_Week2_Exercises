@@ -33,7 +33,19 @@ namespace DB4_Week2_Exercises
                 { "Number Cubes Exercise", true },
                 { "Triangle Output Exercise", true },
                 { "Pyramid Output Exercise", true },
-                { "Sum All Exercise", true }
+                { "Sum All Exercise", true },
+                { "Sum From And To Exercise", true },
+                { "Product Previous Two Exercise", true },
+                { "Word Series Exercise", true },
+                { "Range Check Exercise", true},
+                { "String Extraction Exercise", true },
+                { "String Reverse Extraction Exercise", true },
+                { "String Splitting Exercise", true },
+                { "Vowel Count Exercise", true },
+                { "Consonant Count Exercise", true },
+                { "Remove All Vowels Exercise", true },
+                { "Remove Middle Vowels Exercise", true },
+                { "Reverse Text Exercise", true }
             };
 
             availablePrograms = new List<string>();

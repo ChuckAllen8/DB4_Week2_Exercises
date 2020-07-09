@@ -6,8 +6,8 @@ namespace DB4_Week2_Exercises
     class ConsoleExercise
     {
 
-        protected const int WINDOW_WIDTH = 75;
-        protected const int WINDOW_HEIGHT = 25;
+        protected const int WINDOW_WIDTH = 60;
+        protected const int WINDOW_HEIGHT = 40;
 
         //virtual method to be overridden in the inherited classes
         public virtual void Start()
@@ -30,6 +30,21 @@ namespace DB4_Week2_Exercises
         public bool RunAgain()
         {
             Console.Write("Continue (y/n): ");
+            if (Console.ReadKey().Key == ConsoleKey.Y) //continue on Y, but not anything else
+            {
+                Console.WriteLine("\n");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine("\n");
+                return false;
+            }
+        }
+
+        public bool RunAgain(string prompt)
+        {
+            Console.Write($"{prompt} ");
             if (Console.ReadKey().Key == ConsoleKey.Y) //continue on Y, but not anything else
             {
                 Console.WriteLine("\n");
